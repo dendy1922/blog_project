@@ -17,7 +17,7 @@ Project is created with:
 
 Clone project:
 ```
-$ git clone https://github.com/dendy1922/app.git
+$ git clone https://github.com/dendy1922/blog_project.git
 ```
 Packaging up model changes into individual migration files:
 ```
