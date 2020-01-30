@@ -10,6 +10,8 @@ This project is simple blog site.
 Project is created with:
 * Python: 3+
 * Django version: 2.2
+* Postgresql
+* psycopg2
 	
 ## Setup
 
